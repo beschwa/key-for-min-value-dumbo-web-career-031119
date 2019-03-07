@@ -14,7 +14,7 @@ def key_for_min_value(name_hash)
       else
         if value < number
           number = value
-          keyName = Key
+          keyName = key
         end
       end
     end
